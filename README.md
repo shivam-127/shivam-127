@@ -12,7 +12,8 @@ I'm Shivam, an enthusiastic student passionate about harnessing the power of **A
 
 ## 🏅 **Achievements**  
 - 🏆 **Copyright Recognition**: Awarded for the innovative **Sign Language Recognition Model**.  
-- 📜 **Published Research**: Authored a paper on **Human-Machine Interaction in Autonomous Vehicles**, contributing to advancements in intelligent interfaces.  
+- 📜 **Published Research**: Authored a paper on **Human-Machine Interaction in Autonomous Vehicles**,
+        contributing to advancements in intelligent interfaces.  
 
 ## 🌐 **Let's Connect**  
 - 📩 **Email**: [shivamicem@gmail.com](mailto:shivamicem@gmail.com)  
